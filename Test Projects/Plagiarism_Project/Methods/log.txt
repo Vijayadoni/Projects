@@ -1,0 +1,46 @@
+
+
+**************************Bag of Words***************************
+
+\f1 and \f2 are 26.6 % plagiarised!
+\f1 and \f3 are 100.0 % plagiarised!
+\f1 and \f4 are 46.4 % plagiarised!
+\f1 and \f5 are 30.1 % plagiarised!
+\f2 and \f3 are 26.6 % plagiarised!
+\f2 and \f4 are 25.6 % plagiarised!
+\f2 and \f5 are 47.7 % plagiarised!
+\f3 and \f4 are 46.4 % plagiarised!
+\f3 and \f5 are 30.1 % plagiarised!
+\f4 and \f5 are 39.8 % plagiarised!
+
+2017-08-26 15:48:50
+
+**************************LargestCommonSequence***************************
+
+\f1 and \f2 are 6.5 % plagiarised!
+\f1 and \f3 are 100.0 % plagiarised!
+\f1 and \f4 are 3.5 % plagiarised!
+\f1 and \f5 are 3.6 % plagiarised!
+\f2 and \f3 are 10.0 % plagiarised!
+\f2 and \f4 are 6.1 % plagiarised!
+\f2 and \f5 are 5.7 % plagiarised!
+\f3 and \f4 are 3.5 % plagiarised!
+\f3 and \f5 are 3.6 % plagiarised!
+\f4 and \f5 are 7.2 % plagiarised!
+
+2017-08-26 15:48:51
+
+**************************Fingerprinting-Type1***************************
+
+\f1 and \f2 are 7.4 % plagiarised!
+\f1 and \f3 are 100.0 % plagiarised!
+\f1 and \f4 are 5.7 % plagiarised!
+\f1 and \f5 are 5.9 % plagiarised!
+\f2 and \f3 are 7.4 % plagiarised!
+\f2 and \f4 are 6.4 % plagiarised!
+\f2 and \f5 are 7.3 % plagiarised!
+\f3 and \f4 are 5.7 % plagiarised!
+\f3 and \f5 are 5.9 % plagiarised!
+\f4 and \f5 are 11.2 % plagiarised!
+
+2017-08-26 15:48:51
