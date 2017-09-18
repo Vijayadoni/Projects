@@ -1,0 +1,21 @@
+BAG OF WORDS		2017-09-18 09:04:09
+Result		f1.txt		f2.txt		f3.txt		f4.txt		f5.txt		
+f1.txt		same		27.05		98.82		46.30		30.51		
+f2.txt		27.05		same		27.05		25.95		46.76		
+f3.txt		98.82		27.05		same		46.30		30.51		
+f4.txt		46.30		25.95		46.30		same		40.21		
+f5.txt		30.51		46.76		30.51		40.21		same		
+Fingerprint		2017-09-18 09:04:43
+Result		f1.txt		f2.txt		f3.txt		f4.txt		f5.txt		
+f1.txt		same		88.00		100.00		88.46		92.00		
+f2.txt		88.00		same		90.20		93.88		95.65		
+f3.txt		100.00		90.20		same		88.46		92.00		
+f4.txt		88.46		93.88		88.46		same		95.83		
+f5.txt		92.00		95.65		92.00		95.83		same		
+LCS		2017-09-18 09:05:17
+Result		f1.txt		f2.txt		f3.txt		f4.txt		f5.txt		
+f1.txt		same		1.54		80.58		0.37		0.26		
+f2.txt		1.54		same		0.30		0.31		0.27		
+f3.txt		80.58		0.30		same		0.26		0.26		
+f4.txt		0.37		0.31		0.26		same		0.38		
+f5.txt		0.26		0.27		0.26		0.38		same		
